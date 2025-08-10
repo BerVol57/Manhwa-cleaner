@@ -1,0 +1,11 @@
+.vscode/
+HOME/
+ROI/
+runs/
+venv/
+working/
+dataset.zip
+val_dataset.zip
+mmap.md
+yolo11l.pt
+yolo11n.pt
